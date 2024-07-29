@@ -19,14 +19,19 @@ This project is an interactive Sales Performance Dashboard created using Power B
 - `AWScreenshot.png`: Screenshot of the dashboard.
 
 ## How to Use
-1. **Download Files**: Download the `AWSalesAnalysis.pbix.pbix` and `AdventureWorks.zip` files from the repository.
-2. **Open Power BI File**: Open `AWSalesAnalysis.pbix.pbix` in Power BI Desktop.
-3. **Update Data Source**: If prompted, update the data source to point to the downloaded `AdventureWorks.zip` file:
+1. **Download Files**: Download the `AWSalesAnalysis.pbix` and `AdventureWorks.zip` files from the repository.
+2. **Extract ZIP File**: Extract the `AdventureWorks.zip` file to a location on your computer.
+3. **Open Power BI File**: Open `AWSalesAnalysis.pbix` in Power BI Desktop.
+4. **Update Data Source**:
    - Go to `Home` -> `Transform Data` -> `Data Source Settings`.
-   - Select the `AdventureWorks.zip` source and click `Change Source`.
-   - Navigate to the location of the downloaded `AdventureWorks.zip` file and select it.
-   - Click `OK` and `Close & Apply`.
-
+   - For each CSV file extracted from the ZIP:
+     1. Click on `Change Source`.
+     2. Navigate to the location of the extracted CSV file and select it.
+     3. Click `OK`.
+     4. Repeat the steps for each CSV file required by the Power BI dashboard.
+   - After updating all data sources, click `Close & Apply`.
+5. **Explore the Dashboard**: Once all data sources are updated, you can interact with and explore the dashboard to gain insights into store performance.
+   
 ## Screenshot
 ![Sales Performance Dashboard](AWScreenshot.png)
 
