@@ -12,15 +12,15 @@ To repozytorium zawiera interaktywny Dashboard Satysfakcji Klientów stworzony z
 ## Pliki
 - `Satysfakcja Klientów Dashboard.pbix`: Plik Power BI zawierający dashboard.
 - `SKDashboard.png`: Zrzut ekranu dashboardu.
-- `SKDane.csv`: Zbiór danych używany do analizy (jeśli dotyczy).
+- `SKDane.xlsx`: Zbiór danych używany do analizy (jeśli dotyczy).
 
 ## Jak korzystać
-1. **Pobierz pliki**: Pobierz pliki `Satysfakcja Klientów Dashboard.pbix` oraz `SKDane.csv` (jeśli dotyczy) z repozytorium.
+1. **Pobierz pliki**: Pobierz pliki `Satysfakcja Klientów Dashboard.pbix` oraz `SKDane.xlsx` (jeśli dotyczy) z repozytorium.
 2. **Otwórz plik Power BI**: Otwórz `Satysfakcja Klientów Dashboard.pbix` w Power BI Desktop.
 3. **Zaktualizuj źródło danych**:
    - Przejdź do `Strona główna` -> `Transformuj dane` -> `Ustawienia źródła danych`.
    - Wybierz źródło danych i kliknij `Zmień źródło`.
-   - Przejdź do lokalizacji pobranego pliku `SKDane.csv` i wybierz go.
+   - Przejdź do lokalizacji pobranego pliku `SKDane.xlsx` i wybierz go.
    - Kliknij `OK` oraz `Zamknij i zastosuj`.
 
 ## Zrzut ekranu
