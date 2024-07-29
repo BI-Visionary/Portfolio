@@ -8,6 +8,10 @@ This project is an interactive Sales Performance Dashboard created using Power B
 - **Top Products**: Lists of top products by orders and return rate.
 - **Geographic Analysis**: Map showing the number of orders for different countries.
 - **Date Filter**: Allows users to filter the data by a specific date range.
+- **Total Orders**: Shows the total number of orders placed within the selected date range.
+- **Total Returns**: Indicates the total number of returned orders within the selected date range.
+- **Top Product by Orders**: Identifies the product with the highest number of orders.
+- **Top Product by Profit**: Highlights the product that generated the highest profit.
 
 ## Files
 - `Sales_Performance_Dashboard.pbix`: The Power BI file containing the dashboard.
